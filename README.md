@@ -35,4 +35,5 @@ A simple and responsive weather application that allows users to check real-time
    - City Name  
    - Humidity  
    - Wind Speed  
-   - Weather Icon  
+   - Weather Icon
+   - 
